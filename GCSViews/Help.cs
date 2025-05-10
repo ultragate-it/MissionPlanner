@@ -56,6 +56,10 @@ namespace MissionPlanner.GCSViews
         {
             richTextBox1.Rtf = Resources.help_text;
             ThemeManager.ApplyThemeTo(richTextBox1);
+            BUT_updatecheck.Visible = false;
+            BUT_betaupdate.Visible = false;
+            CHK_showconsole.Visible = false;
+            linkLabel1.Visible = false;  
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
