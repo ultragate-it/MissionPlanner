@@ -826,7 +826,7 @@ namespace MissionPlanner.Properties {
         ///{\*\generator Msftedit 5.41.21.2510;}\viewkind4\uc1\pard\nowidctlpar\sa200\sl276\slmult1\f0\fs22\par
         ///\tab Welcome to the \b Aviator Flight Software\b0 , mission planning for Unmanned Aerial Vehicles (\b UAV\b0 ).\par
         ///\pard\nowidctlpar\fi720\b Help:\par
-        ///Aviator: {\field{\*\fldinst{HYPERLINK &quot;http://https://ultragate.it/&quot;}}{\fldrslt{\ul\cf1 http://https://ultragate.it/ [rest of string was truncated]&quot;;.
+        ///Aviator: {\field{\*\fldinst{HYPERLINK &quot;https://ultragate.it/&quot;}}{\fldrslt{\ul\cf1 https://ultragate.it/}}}\f0\fs22\pa [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string help_text {
             get {
